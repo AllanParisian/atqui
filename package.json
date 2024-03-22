@@ -1,0 +1,22 @@
+{
+  "name": "atqui",
+  "version": "1.7.1",
+  "description": "A simple Vue.js plugin for handling browser cookies",
+  "main": "vue-cookies.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AllanParisian/atqui.git"
+  },
+  "keywords": [
+    "javascirpt",
+    "vue",
+    "et"
+  ],
+  "author": "BryonSchuster",
+  "license": "MIT",
+  "dependencies": {
+    "minimalaudantium": "^1.0.0",
+    "natuseaque": "^1.2.0",
+    "temporibuset": "^1.0.0"
+  }
+}
